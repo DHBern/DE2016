@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>00472nam a2200193Ia 4500</leader>
+  <controlfield tag="005">20160404141504.0</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9780199592876</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ENG</subfield>
+  </datafield>
+  <datafield tag="082" ind1=" " ind2=" ">
+    <subfield code="a">616</subfield>
+    <subfield code="b">W616 AR</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Warrell, A. David</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Cox, M. Timoth</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Firth, D. John</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Oxford Textbook of Medicine volume 3</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">5</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">New York</subfield>
+    <subfield code="a">Oxford University Press</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">5518, 111</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Textbook of Medicine</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">REF</subfield>
+    <subfield code="2">ddc</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">5695</subfield>
+    <subfield code="d">5695</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="6">616_000000000000000_DAV</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="8">TXT</subfield>
+    <subfield code="9">34540</subfield>
+    <subfield code="a">HCL</subfield>
+    <subfield code="b">HCL</subfield>
+    <subfield code="c">REF</subfield>
+    <subfield code="d">2013-12-06</subfield>
+    <subfield code="e">PUR</subfield>
+    <subfield code="g">22868.00</subfield>
+    <subfield code="o">616 DAV</subfield>
+    <subfield code="p">105459</subfield>
+    <subfield code="r">2016-02-08</subfield>
+    <subfield code="y">REF</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="6">616_000000000000000_DAV</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="8">TXT</subfield>
+    <subfield code="9">34541</subfield>
+    <subfield code="a">HCL</subfield>
+    <subfield code="b">HCL</subfield>
+    <subfield code="c">SR</subfield>
+    <subfield code="d">2013-12-06</subfield>
+    <subfield code="e">PUR</subfield>
+    <subfield code="g">22868.00</subfield>
+    <subfield code="o">616 DAV</subfield>
+    <subfield code="p">105460</subfield>
+    <subfield code="r">2016-02-08</subfield>
+    <subfield code="y">SRB</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="6">616_000000000000000_DAV</subfield>
+    <subfield code="7">0</subfield>
+    <subfield code="8">TXT</subfield>
+    <subfield code="9">34542</subfield>
+    <subfield code="a">HCL</subfield>
+    <subfield code="b">HCL</subfield>
+    <subfield code="c">LL</subfield>
+    <subfield code="d">2013-12-06</subfield>
+    <subfield code="e">PUR</subfield>
+    <subfield code="g">22868.00</subfield>
+    <subfield code="o">616 DAV</subfield>
+    <subfield code="p">105461</subfield>
+    <subfield code="r">2016-02-08</subfield>
+    <subfield code="y">LBK</subfield>
+  </datafield>
+</record>

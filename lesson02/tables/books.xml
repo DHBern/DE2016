@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ROOT SYSTEM "books.dtd">
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <row>
+      <field name="ISBN">0018488498</field>
+      <field name="title">What the bleep do we know</field>
+      <field name="price">59.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020322305</field>
+      <field name="title">Forgiving the unforgivable</field>
+      <field name="price">31.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020383142</field>
+      <field name="title">Old New York</field>
+      <field name="price">19</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020415133</field>
+      <field name="title">Wolf rider</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020415559</field>
+      <field name="title">Voice and the actor</field>
+      <field name="price">16.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020425759</field>
+      <field name="title">Tripods #1: When the tripods came</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020427018</field>
+      <field name="title">Tripods #3: City of Gold and lead</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020427115</field>
+      <field name="title">Tripods #2: White mountains</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020427212</field>
+      <field name="title">Tripods #4: Pool of fire</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0020446500</field>
+      <field name="title">Z for Zachariah</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0021171432</field>
+      <field name="title">Graduate</field>
+      <field name="price">25.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0021175802</field>
+      <field name="title">Just visiting: Les visiteurs II</field>
+      <field name="price">36.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0025473905</field>
+      <field name="title">Respect for acting</field>
+      <field name="price">26.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0026045702</field>
+      <field name="title">Joy of cooking</field>
+      <field name="price">56.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0027701301</field>
+      <field name="title">Hatchet</field>
+      <field name="price">0</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028624076</field>
+      <field name="title">Complete idiot's guide to stepparenting</field>
+      <field name="price">27.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028627717</field>
+      <field name="title">Betty Crocker's picture cook book</field>
+      <field name="price">44.1</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028631196</field>
+      <field name="title">Webster's new world college dictionary</field>
+      <field name="price">45.4</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028631226</field>
+      <field name="title">Webster's New World Thesaurus</field>
+      <field name="price">34.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028633873</field>
+      <field name="title">Complete Idiot's Guide to Learning Yiddish</field>
+      <field name="price">30.1</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028636376</field>
+      <field name="title">Complete idiot's guide to overcoming procrastination</field>
+      <field name="price">21.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028637623</field>
+      <field name="title">Low-fat low cholesterol cooking today</field>
+      <field name="price">36.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028643100</field>
+      <field name="title">Complete Idiot's Guide to Understanding the Brain</field>
+      <field name="price">29.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028644166</field>
+      <field name="title">Mob star: the story of John Gotti</field>
+      <field name="price">27.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0028658477</field>
+      <field name="title">Encyclopedia of genocide and crimes against humanity</field>
+      <field name="price">687.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0029079403</field>
+      <field name="title">Rules of sociological method</field>
+      <field name="price">34.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0029202922</field>
+      <field name="title">Search for the real self: Unmasking the Personality Disorders of Our Age</field>
+      <field name="price">27</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030344743</field>
+      <field name="title">Macroeconomics</field>
+      <field name="price">87.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030351995</field>
+      <field name="title">Holt Science &amp; Technology Science Fair Guide (Grade 6)</field>
+      <field name="price">23.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030352045</field>
+      <field name="title">Holt Science &amp; Technology Assessment Checklists and Rubrics</field>
+      <field name="price">21.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030368774</field>
+      <field name="title">Elements of Literature, grade 8</field>
+      <field name="price">121.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030368839</field>
+      <field name="title">Holt Science &amp; Technology Program Teaching Resources Package (Grade 6)</field>
+      <field name="price">128.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030372542</field>
+      <field name="title">Komm mit! 1 student book</field>
+      <field name="price">131.4</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030372569</field>
+      <field name="title">Komm mit! 2 student book</field>
+      <field name="price">134.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030372585</field>
+      <field name="title">Komm mit! 1 teacher's book</field>
+      <field name="price">143.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030372593</field>
+      <field name="title">Komm mit! 2 teacher's book</field>
+      <field name="price">143.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030398886</field>
+      <field name="title">Holt bien dit 1 student book</field>
+      <field name="price">144.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">003042223X</field>
+      <field name="title">Holt bien dit 1A teacher's book</field>
+      <field name="price">171.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030422485</field>
+      <field name="title">World History Differentiated Instruction Teacher Management System Grades 6-8</field>
+      <field name="price">45.22</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030423325</field>
+      <field name="title">World History Differentiated Instruction Teacher Management System Grades 6-8 Ancient Civilizations</field>
+      <field name="price">44.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030423341</field>
+      <field name="title">World History Program Assessment Support System Grades 6-8 Ancient Civilizations</field>
+      <field name="price">60.01</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030426979</field>
+      <field name="title">Holt bien dit 2 student book</field>
+      <field name="price">147.1</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030432189</field>
+      <field name="title">Holt bien dit 3 student book</field>
+      <field name="price">99.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030456223</field>
+      <field name="title">Holt Science &amp; Technology Teacher's Edition Life Science</field>
+      <field name="price">130.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030457572</field>
+      <field name="title">Holt Science &amp; Technology Teacher's Edition Earth Science</field>
+      <field name="price">130.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030457688</field>
+      <field name="title">Holt Science &amp; Technology Teacher's Edition Physical Science</field>
+      <field name="price">130.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">003046224X</field>
+      <field name="title">Holt Science &amp; Technology Student Edition Life Science</field>
+      <field name="price">96.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030462274</field>
+      <field name="title">Holt Science &amp; Technology Student Edition Earth Science</field>
+      <field name="price">96.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030462282</field>
+      <field name="title">Holt Science &amp; Technology Student Edition Physical Science</field>
+      <field name="price">96.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030462428</field>
+      <field name="title">Holt Science &amp; Technology Premier Online Student Edition (1-year subscription) Life Science</field>
+      <field name="price">27</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030462436</field>
+      <field name="title">Holt Science &amp; Technology Premier Online Student Edition (1-year subscription) Earth Science</field>
+      <field name="price">27</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030462444</field>
+      <field name="title">Holt Science &amp; Technology Premier Online Student Edition (1-year subscription) Physical Science</field>
+      <field name="price">27</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030464285</field>
+      <field name="title">Holt Science &amp; Technology Chapter Resources CD-ROM Earth Science</field>
+      <field name="price">68.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">003046434X</field>
+      <field name="title">Holt Science &amp; Technology Chapter Resources CD-ROM Physical Science</field>
+      <field name="price">68.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030543517</field>
+      <field name="title">Holt science spectrum: A balanced approach</field>
+      <field name="price">0</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030566118</field>
+      <field name="title">Komm mit! 2 video cassette</field>
+      <field name="price">780</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030566126</field>
+      <field name="title">Komm mit! 1 video cassette</field>
+      <field name="price">780</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030650119</field>
+      <field name="title">Komm mit! 1 workbook</field>
+      <field name="price">27.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">003065016X</field>
+      <field name="title">Komm mit! 2 workbook</field>
+      <field name="price">28.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030664519</field>
+      <field name="title">Komm mit! 1 teacher's resource book</field>
+      <field name="price">390</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030664527</field>
+      <field name="title">Komm mit! 2 teacher's resource book</field>
+      <field name="price">390</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030780195</field>
+      <field name="title">World Geography Differentiated Instruction Teacher Management System Grades 6-8</field>
+      <field name="price">44.37</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030780217</field>
+      <field name="title">World Geography Progress Assessment Support System with Answer Key </field>
+      <field name="price">59.42</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030780233</field>
+      <field name="title">World Geography Geography, Science and Cultures Activities with Answer Key Grades 6-8</field>
+      <field name="price">32.05</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030796237</field>
+      <field name="title">Holt bien dit 2 teacher's book</field>
+      <field name="price">171.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030796245</field>
+      <field name="title">Holt bien dit 3 teacher's book</field>
+      <field name="price">89.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030797187</field>
+      <field name="title">Holt bien dit 1A workbook</field>
+      <field name="price">27</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030797217</field>
+      <field name="title">Holt bien dit 1 cahier de vocabulaire et grammaire</field>
+      <field name="price">22.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030797438</field>
+      <field name="title">Holt bien dit 1B student book</field>
+      <field name="price">116.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030797497</field>
+      <field name="title">Holt bien dit 1A student book</field>
+      <field name="price">116.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030797748</field>
+      <field name="title">World Geography Student World Atlas Grades 6-8</field>
+      <field name="price">17.94</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030882478</field>
+      <field name="title">Holt bien dit 2 cahier de vocabulaire et grammaire</field>
+      <field name="price">22.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030920396</field>
+      <field name="title">Holt bien dit 3 cahier de vocabulaire et grammaire</field>
+      <field name="price">22.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030920450</field>
+      <field name="title">Holt bien dit 3 teacher's planner DVD</field>
+      <field name="price">49.8</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030934206</field>
+      <field name="title">World Geography Today Student World Atlas With Answer Key</field>
+      <field name="price">13.01</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">003094421X</field>
+      <field name="title">Elements of Literature, grade 8, teacher's ed.</field>
+      <field name="price">184.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030962196</field>
+      <field name="title">Lifetime Health</field>
+      <field name="price">111.3</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">003096220X</field>
+      <field name="title">Lifetime Health, Teacher's ed.</field>
+      <field name="price">137.1</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030986389</field>
+      <field name="title">Adventures in English literature</field>
+      <field name="price">192</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030993407</field>
+      <field name="title">English workshop fifth course</field>
+      <field name="price">46.1</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0030996236</field>
+      <field name="title">Elements of Literature, grade 8, Assessments</field>
+      <field name="price">65.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0034572481</field>
+      <field name="title">Lion, the witch, and the wardrobe (classic animated feature)</field>
+      <field name="price">24.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0034577572</field>
+      <field name="title">Tales of Beatrix Potter Royal Ballet</field>
+      <field name="price">42</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0048242675</field>
+      <field name="title">Travel the world game</field>
+      <field name="price">34</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0048243787</field>
+      <field name="title">Alphabet frieze</field>
+      <field name="price">18.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0048243817</field>
+      <field name="title">Alphabet and numbers fun (double-sided magnetic board)</field>
+      <field name="price">27.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0048243833</field>
+      <field name="title">Number frieze</field>
+      <field name="price">18.5</field>
+      <field name="quantity">1</field>
+    </row>
+    <row>
+      <field name="ISBN">0048250651</field>
+      <field name="title">My complete activity pack</field>
+      <field name="price">44</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0048251194</field>
+      <field name="title">Early Learning Centre: My Complete Learning Pack</field>
+      <field name="price">35</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0052412075</field>
+      <field name="title">Princess bride</field>
+      <field name="price">26.2</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060001445</field>
+      <field name="title">Her highness, my wife</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060001453</field>
+      <field name="title">Love with the proper husband</field>
+      <field name="price">10.9</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">006000150X</field>
+      <field name="title">Diary of a worm</field>
+      <field name="price">25.6</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">006000181X</field>
+      <field name="title">Withe her last breath</field>
+      <field name="price">7.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060002050</field>
+      <field name="title">On a wicked dawn</field>
+      <field name="price">12.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060002069</field>
+      <field name="title">Lady chosen</field>
+      <field name="price">12.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060002077</field>
+      <field name="title">Gentleman's honor</field>
+      <field name="price">12.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060004401</field>
+      <field name="title">People's history of the American revolution: How common people shaped the fight for independence</field>
+      <field name="price">17.7</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060005424</field>
+      <field name="title">Lirael</field>
+      <field name="price">12.5</field>
+      <field name="quantity">0</field>
+    </row>
+    <row>
+      <field name="ISBN">0060005696</field>
+      <field name="title">Paradox of choice: Why more is less</field>
+      <field name="price">17.9</field>
+      <field name="quantity">0</field>
+    </row>
+</ROOT>
