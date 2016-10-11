@@ -1,0 +1,49 @@
+<!doctype html>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Diva.js Demo Page</title>
+            <link rel="stylesheet" href="https://cdn.rawgit.com/DDMAL/diva.js/gh-pages/try/css/diva.css" />
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+            <script src="https://cdn.rawgit.com/DDMAL/diva.js/gh-pages/try/js/diva.min.js" type="text/javascript"></script>
+            <style>
+            #menu {
+                margin: 0 auto;
+                font-size: 1.5em;
+            }
+            </style>
+            <script type="text/javascript">
+                $(document).ready(function()
+                {
+                    $('#diva-wrapper').diva({
+                        fixedHeightGrid: true,
+                        objectData: 'JSON_MANIFEST',
+                        enableIIIFMetadata: true
+                    });
+
+                    var selectObject = $('#object-select');
+                    var diva = $('#diva-wrapper').data('diva');
+                    selectObject.on('change', function()
+                    {
+                        diva.changeObject(selectObject.val());
+                    });
+
+                    $('#orientation').on('click', function()
+                    {
+                        diva.toggleOrientation();
+                    })
+                });
+            </script>
+        </head>
+        <body>
+            <div id="menu">
+                <select name="select" id="object-select">
+                    <option value="JSON_MANIFEST">DESCRIPTION</option>
+                    <option value="JSON_MANIFEST">DESCRIPTION</option>
+                </select>
+                <button id="orientation" type="button">Toggle orientation</button>
+            </div>
+            <div id="diva-wrapper"></div>
+        </body>
+    </html>
